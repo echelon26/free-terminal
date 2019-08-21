@@ -1,0 +1,10 @@
+.toolbar_container {
+    display: flex;
+    justify-content: space-between;
+    height:35px;
+    background-color: #21252B;
+  }
+
+.content {
+    color:white
+}

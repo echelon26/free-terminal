@@ -1,0 +1,20 @@
+.SideBar_left { 
+   border: 1px solid black;
+   width: 5%; 
+   display: flex; 
+   justify-content: space-between; 
+   background-color: black; 
+   align-items: center; 
+   flex-direction: column;
+  }
+
+.SideBar_right { 
+   border: 1px solid black;
+   width: 5%; 
+   display: flex; 
+   justify-content: center; 
+   align-items: center; 
+   background-color: #21252B;
+  }
+
+  

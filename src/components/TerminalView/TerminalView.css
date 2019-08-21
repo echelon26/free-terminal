@@ -1,0 +1,12 @@
+.flex_container {
+    display: "flex";
+    justify-content: "center";
+    max-width: auto;
+    height: calc(100vh - 35px);
+    max-height: calc(100vh - 35px);
+    align-items: "end";
+    overflow-x: auto;
+  }
+
+
+  
